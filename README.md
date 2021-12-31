@@ -11,3 +11,6 @@ https://create.arduino.cc/projecthub/ansh2919/serial-communication-between-pytho
 ### Similar project in C#
 
 https://github.com/diegocbarboza/F1_SteeringWheelDisplay/blob/main/TelemetryReceiver/Program.cs
+
+### Pimoroni for the RGB Matrix
+https://github.com/pimoroni/pimoroni-pico/releases/tag/v0.3.2
