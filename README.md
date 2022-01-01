@@ -14,3 +14,6 @@ https://github.com/diegocbarboza/F1_SteeringWheelDisplay/blob/main/TelemetryRece
 
 ### Pimoroni for the RGB Matrix
 https://github.com/pimoroni/pimoroni-pico/releases/tag/v0.3.2
+
+### Neopixel ring example
+https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio/neopixel_ring
